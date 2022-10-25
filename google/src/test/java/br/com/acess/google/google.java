@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-//Automação teste para abrir o google
+//Automação teste para abrir o google usando webdriver
 public class google {
     @Test
     public void acessgoogle(){
@@ -15,7 +15,4 @@ public class google {
         WebDriver navegador = new ChromeDriver();
         navegador.get("https://www.google.com.br/");
     }
-
-
-    
 }
