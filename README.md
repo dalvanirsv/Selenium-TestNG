@@ -1,2 +1,2 @@
 # Selenium-TestNG
-Incluind differents files for selenium -testng
+Incluind differents files for tests using selenium -testng
